@@ -1,0 +1,9 @@
+USAR COM O POSTMAN!
+
+Criar usuário → POST /users
+
+Listar usuários → GET /users/lista
+
+Buscar por CPF → GET /users/<cpf>
+
+Deletar usuário → DELETE /users/<cpf>

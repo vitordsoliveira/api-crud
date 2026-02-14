@@ -1,5 +1,13 @@
 USAR COM O POSTMAN!
 
+O que colar para se testar a API!
+{
+    "nome": "Carlos Pereira",
+    "email": "carlos.p@example.com",
+    "senha": "senha_segura_456",
+    "cpf": "98765432100"
+}
+
 Criar usuário → POST /users
 
 Listar usuários → GET /users/lista
